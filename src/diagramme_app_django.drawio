@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T17:25:00.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QjQJMZLs6SNeTjEJWb9C" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T17:25:58.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_MNnt9r1OoDDNWoSZbq8" version="20.8.20" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Auteurs" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="118" width="250" height="278" as="geometry" />
+          <mxGeometry x="123" y="118" width="250" height="278" as="geometry" />
         </mxCell>
         <mxCell id="Tie-fUxSFl-Gahp-A8J_-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="C-vyLk0tnHw3VtMMgP7b-23">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="480" y="340" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tie-fUxSFl-Gahp-A8J_-8" value="Users" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="36" y="391" width="140" height="160" as="geometry" />
+          <mxGeometry x="36" y="454" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tie-fUxSFl-Gahp-A8J_-9" value="&lt;u&gt;&lt;b&gt;id&lt;/b&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tie-fUxSFl-Gahp-A8J_-8">
           <mxGeometry y="30" width="140" height="20" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry y="140" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tie-fUxSFl-Gahp-A8J_-15" value="Categories" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="401" width="140" height="110" as="geometry" />
+          <mxGeometry x="260" y="464" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Tie-fUxSFl-Gahp-A8J_-16" value="&lt;b&gt;&lt;u&gt;id&lt;/u&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tie-fUxSFl-Gahp-A8J_-15">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
